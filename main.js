@@ -6,6 +6,7 @@ afsnasjf
 
 asknfkansfk
 asfasf
+
 askfnaksf
 asfnjasfj
 
@@ -19,3 +20,7 @@ test31
 // origin => new branch
 //TextDecoderStream;
 hello
+// git branch
+// git checkout
+
+// origin => new branch
